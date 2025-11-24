@@ -1,5 +1,10 @@
 # ⚡💲💰Real-Time Stock Price Analyzer
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![yFinance](https://img.shields.io/badge/yFinance-000000?logo=yahoo&logoColor=white)
+
 A real-time stock market dashboard built using **Streamlit**, **yFinance**, and **Matplotlib**.
 
 This app fetches *live stock prices* in 1-minute intervals and auto-refreshes to give you always-updated market data.
